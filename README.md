@@ -1,9 +1,5 @@
 # todo-app
 
-# Project Name
-
-
-Short description or tagline about your project.
 
 ## what will you find and technologies used in the App ?
 - Using Tailwind CSS. ( for my first time ).
